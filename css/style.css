@@ -1,0 +1,64 @@
+
+body{     
+    text-align: center;
+    font-family: 'Poppins', sans-serif;
+    background-color: #b2beb0;
+    margin: 0 ;
+    background-size: cover;
+     
+}
+.h1{
+    font-family: 'Poppins', sans-serif;
+    font-size: 35px;
+    text-align: center;
+}
+
+ul{
+    background-color: black;
+    
+       
+}
+
+div{
+margin: 0 ;
+
+}
+.container{  
+    text-align: center;
+    background: white;
+    border-radius: 5px; 
+    margin: 0px 200px ;
+    padding: 0px 50px;
+    height: 400%;
+    font-size: 13px;
+    
+    
+}
+body  ul li{
+    text-align: center;
+    display: inline-block;
+    background-color: black;
+    padding: 8px 12px;
+    font-size: 13px;
+    margin: 10px 7px;
+    
+
+  }
+  .fa-solid fa-magnifying-glass{
+      background-color: #b2beb5 ;
+  }
+  .hr{
+      align-items: center;
+      margin: 30px;
+  }
+  p{
+      font-size: px;
+      
+  }
+  #main{
+      
+      max-width: 500px;
+      margin: 0 auto  50% auto;
+      text-align: left;
+    
+  }
